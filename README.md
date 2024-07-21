@@ -1,6 +1,6 @@
 # Marketing-Campaign-Analysis
 ## Project Overview
-The report provides a comprehensive analysis on campaign Ads condcucted on Facebook, Instagram, Pinterest during summer, fall and spring season across three locations in the United Kingdom. By analyzing data on various factors to determine how effective the Ads are.
+The report provides a comprehensive analysis on campaign Ads condcucted on Facebook, Instagram, Pinterest during summer, fall and spring season across three locations in the United Kingdom. By analyzing data on various factors to determine how effective the Ads are. [Click here](https://app.powerbi.com/view?r=eyJrIjoiOWM1YjgyYTMtNjU0OS00ZmZkLThkNGQtYmNmZDRjN2MxYzNlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) to view Power BI dashboard.
 ## Visualization and Reports
 For this report, I started by creating custom KPIs. These includes total revenue, ads spend, total likes, shares, clicks, conversion, impression, comment, ROAS and net profit.
 The report required various visuals to demonstrate conversion % by month, location, channel, total impression across all channels used for the ad. Furthermore, the visuals used also demonstrated the location the ads is most effective, the most effective campaign season to target for ads.
